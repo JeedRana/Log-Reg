@@ -1,0 +1,9 @@
+Firstname: jeedrana
+Lastname: rana
+Username: Ghost
+Email: ranazeed@gmail.com
+Password: 3456
+RePassword: 3456
+Gender: Male
+Course: BSIT
+Hobbies: Gaming
